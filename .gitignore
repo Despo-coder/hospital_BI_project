@@ -1,5 +1,6 @@
-*.csv,
-*.xlsx,
-*.png,
-*.docx,
-*.pdf,
+*.csv
+*.xlsx
+*.png
+*.docx
+*.pdf
+data/
